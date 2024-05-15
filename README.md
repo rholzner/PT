@@ -3,6 +3,7 @@
 Push pull ben 
 
 Push - bröst ( 4st övning ) - utsida axlar ( 1 till 2st övningar ) - triceps ( 1 till 2st övningar )
+
 1# incline bench press ( övre bröst )
 1.1# upvärmings set 1 till 3 sets, mellan 4 till 12 reps, Fokus att göra rätt teknik få en go känsla inför arbets set
 1.2# working sets 4st, Nu börjar vi lägga på vikter, försök hamna mellan 8 till 12 reps, Sista set ( 4e ) får gärna vara 3 rep max
