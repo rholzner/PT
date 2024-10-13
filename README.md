@@ -1,10 +1,13 @@
 # PT
 
-Push pull ben 
+## Push pull ben 
 
-Push - bröst ( 4st övning ) - utsida axlar ( 1 till 2st övningar ) - triceps ( 1 till 2st övningar )
+### Push - bröst ( 4st övning ) - utsida axlar ( 1 till 2st övningar ) - triceps ( 1 till 2st övningar )
 
-1# incline bench press ( övre bröst )
+```
+
+1 incline bench press ( övre bröst )
+
 
 1.1# upvärmings set 1 till 3 sets, mellan 4 till 12 reps, 
   Fokus att göra rätt teknik få en go känsla inför arbets set
@@ -36,8 +39,9 @@ Push - bröst ( 4st övning ) - utsida axlar ( 1 till 2st övningar ) - triceps 
 6# triceps 
 6.1# slakta den så hårt man vill, Men här brukar jag enbart ha energi till 4st sets med rep
 
-
-Pull - rygg fokus lats - baksida axlar - biceps
+```
+## Pull - rygg fokus lats - baksida axlar - biceps
+```
 1# lateral pull down
 
 1.1# upvärmings set 1 till 2 sets, mellan 4 till 12 reps, 
@@ -86,9 +90,10 @@ Pull - rygg fokus lats - baksida axlar - biceps
 7.2#  working sets 4st, hitta en vikt där man kan göra 12 reps 
 
 8# gör va fan man vill med biceps om man orkar, helt valid att inte ta någon övning alls
+```
 
-
-Ben
+## Ben
+```
 1# leg curl - framsida lår 
 
 1.1# upvärmings set 1 till 2 sets, mellan 4 till 12 reps, 
@@ -128,3 +133,4 @@ Ben
 7# kettlebell swings
 
 7.1# om man har energi över.. gör så många man kan
+```
